@@ -1,0 +1,15 @@
+package practice1;
+
+import java.util.Scanner;
+
+public class Practice01 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("첫번째 숫자 입력: ");
+		int n1 = sc.nextInt();
+		System.out.println("두번째 숫자 입력: ");
+		int n1 = sc.nextInt();
+		
+		
+	}
+}

@@ -1,0 +1,560 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ex1_enum",
+            "request": "launch",
+            "mainClass": "ex1_enum.Ex1_enum",
+            "projectName": "Ex_0309"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "enum_example.Main",
+            "projectName": "practice (2)"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList_Ex2",
+            "request": "launch",
+            "mainClass": "pr_ArrayList_Example.ArrayList_Ex2",
+            "projectName": "practice (2)"
+        },
+        {
+            "type": "java",
+            "name": "Practice01",
+            "request": "launch",
+            "mainClass": "practice1.Practice01",
+            "projectName": "practice (2)"
+        },
+        {
+            "type": "java",
+            "name": "RamdaMain",
+            "request": "launch",
+            "mainClass": "ramda_practice.RamdaMain",
+            "projectName": "practice (2)"
+        },
+        {
+            "type": "java",
+            "name": "MyCalculatorTest",
+            "request": "launch",
+            "mainClass": "ramda_practice.MyCalculatorTest",
+            "projectName": "practice (2)"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "calculator.Calculator",
+            "projectName": "Ex_0310"
+        },
+        {
+            "type": "java",
+            "name": "ThreadCountMain",
+            "request": "launch",
+            "mainClass": "ex5_Thread.ThreadCountMain",
+            "projectName": "Ex_0303_Thread"
+        },
+        {
+            "type": "java",
+            "name": "QuizMain",
+            "request": "launch",
+            "mainClass": "ex5_Thread.QuizMain",
+            "projectName": "Ex_0303_Thread"
+        },
+        {
+            "type": "java",
+            "name": "ResultMain",
+            "request": "launch",
+            "mainClass": "practice8.ResultMain",
+            "projectName": "practice"
+        },
+        {
+            "type": "java",
+            "name": "ResultMain",
+            "request": "launch",
+            "mainClass": "practice7.ResultMain",
+            "projectName": "practice"
+        },
+        {
+            "type": "java",
+            "name": "ResultMain",
+            "request": "launch",
+            "mainClass": "practice6.ResultMain",
+            "projectName": "practice"
+        },
+        {
+            "type": "java",
+            "name": "AngleMain",
+            "request": "launch",
+            "mainClass": "practice5.AngleMain",
+            "projectName": "practice"
+        },
+        {
+            "type": "java",
+            "name": "AgeMain",
+            "request": "launch",
+            "mainClass": "practice4.AgeMain",
+            "projectName": "practice"
+        },
+        {
+            "type": "java",
+            "name": "PracticeMain",
+            "request": "launch",
+            "mainClass": "practice3.PracticeMain",
+            "projectName": "practice"
+        },
+        {
+            "type": "java",
+            "name": "Practice02",
+            "request": "launch",
+            "mainClass": "practice2.Practice02",
+            "projectName": "practice"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_first",
+            "request": "launch",
+            "mainClass": "ex1_first.Ex1_first",
+            "projectName": "Ex_0213_first"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_valueType",
+            "request": "launch",
+            "mainClass": "ex2_valueType.Ex1_valueType",
+            "projectName": "Ex_0213_first"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_Promotion",
+            "request": "launch",
+            "mainClass": "ex1_casting.Ex1_Promotion",
+            "projectName": "Ex_0214_operator"
+        },
+        {
+            "type": "java",
+            "name": "Ex2_Demotion",
+            "request": "launch",
+            "mainClass": "ex1_casting.Ex2_Demotion",
+            "projectName": "Ex_0214_operator"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_operator",
+            "request": "launch",
+            "mainClass": "ex2_operator.Ex1_operator",
+            "projectName": "Ex_0214_operator"
+        },
+        {
+            "type": "java",
+            "name": "Ex2_operator",
+            "request": "launch",
+            "mainClass": "ex2_operator.Ex2_operator",
+            "projectName": "Ex_0214_operator"
+        },
+        {
+            "type": "java",
+            "name": "Ex3_operator",
+            "request": "launch",
+            "mainClass": "ex2_operator.Ex3_operator",
+            "projectName": "Ex_0214_operator"
+        },
+        {
+            "type": "java",
+            "name": "Ex4_operator",
+            "request": "launch",
+            "mainClass": "ex2_operator.Ex4_operator",
+            "projectName": "Ex_0214_operator"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_if",
+            "request": "launch",
+            "mainClass": "ex1_if.Ex1_if",
+            "projectName": "Ex_0215_control_stat"
+        },
+        {
+            "type": "java",
+            "name": "Ex2_if_else",
+            "request": "launch",
+            "mainClass": "ex1_if.Ex2_if_else",
+            "projectName": "Ex_0215_control_stat"
+        },
+        {
+            "type": "java",
+            "name": "Ex3_if_elseif_else",
+            "request": "launch",
+            "mainClass": "ex1_if.Ex3_if_elseif_else",
+            "projectName": "Ex_0215_control_stat"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_switch",
+            "request": "launch",
+            "mainClass": "ex2_switch.Ex1_switch",
+            "projectName": "Ex_0215_control_stat"
+        },
+        {
+            "type": "java",
+            "name": "Ex2_switch",
+            "request": "launch",
+            "mainClass": "ex2_switch.Ex2_switch",
+            "projectName": "Ex_0215_control_stat"
+        },
+        {
+            "type": "java",
+            "name": "Ex3_switch",
+            "request": "launch",
+            "mainClass": "ex2_switch.Ex3_switch",
+            "projectName": "Ex_0215_control_stat"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_for",
+            "request": "launch",
+            "mainClass": "ex1_single_for.Ex1_for",
+            "projectName": "Ex_0216_control_stat2"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_multi_for",
+            "request": "launch",
+            "mainClass": "ex2_multi_for.Ex1_multi_for",
+            "projectName": "Ex_0216_control_stat2"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_while",
+            "request": "launch",
+            "mainClass": "ex3_while.Ex1_while",
+            "projectName": "Ex_0216_control_stat2"
+        },
+        {
+            "type": "java",
+            "name": "Ex2_do_while",
+            "request": "launch",
+            "mainClass": "ex3_while.Ex2_do_while",
+            "projectName": "Ex_0216_control_stat2"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_break",
+            "request": "launch",
+            "mainClass": "ex4_break.Ex1_break",
+            "projectName": "Ex_0216_control_stat2"
+        },
+        {
+            "type": "java",
+            "name": "Ex2_break",
+            "request": "launch",
+            "mainClass": "ex4_break.Ex2_break",
+            "projectName": "Ex_0216_control_stat2"
+        },
+        {
+            "type": "java",
+            "name": "Ex3_label_break",
+            "request": "launch",
+            "mainClass": "ex4_break.Ex3_label_break",
+            "projectName": "Ex_0216_control_stat2"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_continue",
+            "request": "launch",
+            "mainClass": "ex5_continue.Ex1_continue",
+            "projectName": "Ex_0216_control_stat2"
+        },
+        {
+            "type": "java",
+            "name": "Ex2_continue",
+            "request": "launch",
+            "mainClass": "ex5_continue.Ex2_continue",
+            "projectName": "Ex_0216_control_stat2"
+        },
+        {
+            "type": "java",
+            "name": "Ex3_label_continue",
+            "request": "launch",
+            "mainClass": "ex5_continue.Ex3_label_continue",
+            "projectName": "Ex_0216_control_stat2"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_Printf",
+            "request": "launch",
+            "mainClass": "ex6_printf.Ex1_Printf",
+            "projectName": "Ex_0216_control_stat2"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_Scanner",
+            "request": "launch",
+            "mainClass": "ex7_scanner.Ex1_Scanner",
+            "projectName": "Ex_0216_control_stat2"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_work",
+            "request": "launch",
+            "mainClass": "ex8_work.Ex1_work",
+            "projectName": "Ex_0216_control_stat2"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_Array",
+            "request": "launch",
+            "mainClass": "ex1_array.Ex1_Array",
+            "projectName": "Ex_0220_Array"
+        },
+        {
+            "type": "java",
+            "name": "Ex2_array",
+            "request": "launch",
+            "mainClass": "ex1_array.Ex2_array",
+            "projectName": "Ex_0220_Array"
+        },
+        {
+            "type": "java",
+            "name": "Ex3_Array",
+            "request": "launch",
+            "mainClass": "ex1_array.Ex3_Array",
+            "projectName": "Ex_0220_Array"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_multi_array",
+            "request": "launch",
+            "mainClass": "ex2_multi_array.Ex1_multi_array",
+            "projectName": "Ex_0220_Array"
+        },
+        {
+            "type": "java",
+            "name": "Ex2_multi_array",
+            "request": "launch",
+            "mainClass": "ex2_multi_array.Ex2_multi_array",
+            "projectName": "Ex_0220_Array"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_String",
+            "request": "launch",
+            "mainClass": "ex1_String.Ex1_String",
+            "projectName": "Ex_0221_class"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_String_method",
+            "request": "launch",
+            "mainClass": "ex2_String_method.Ex1_String_method",
+            "projectName": "Ex_0221_class"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_work(1)",
+            "request": "launch",
+            "mainClass": "ex3_work.Ex1_work",
+            "projectName": "Ex_0221_class"
+        },
+        {
+            "type": "java",
+            "name": "ComMain",
+            "request": "launch",
+            "mainClass": "ex1_computer.ComMain",
+            "projectName": "Ex_0222_class2"
+        },
+        {
+            "type": "java",
+            "name": "MethodMain",
+            "request": "launch",
+            "mainClass": "ex2_method.MethodMain",
+            "projectName": "Ex_0222_class2"
+        },
+        {
+            "type": "java",
+            "name": "ComMain(1)",
+            "request": "launch",
+            "mainClass": "ex1_coumputer.ComMain",
+            "projectName": "Ex_0223_class3"
+        },
+        {
+            "type": "java",
+            "name": "PersonMain",
+            "request": "launch",
+            "mainClass": "ex2_Person.PersonMain",
+            "projectName": "Ex_0223_class3"
+        },
+        {
+            "type": "java",
+            "name": "CalMain",
+            "request": "launch",
+            "mainClass": "ex3_Calculator.CalMain",
+            "projectName": "Ex_0223_class3"
+        },
+        {
+            "type": "java",
+            "name": "TimesTableMain",
+            "request": "launch",
+            "mainClass": "ex4_gugudan.TimesTableMain",
+            "projectName": "Ex_0223_class3"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "ex5_bank.Main",
+            "projectName": "Ex_0223_class3"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "ex6_updown.Main",
+            "projectName": "Ex_0223_class3"
+        },
+        {
+            "type": "java",
+            "name": "MakeBreadMain",
+            "request": "launch",
+            "mainClass": "bread.MakeBreadMain",
+            "projectName": "Ex_0224_constructor"
+        },
+        {
+            "type": "java",
+            "name": "OverloadMain",
+            "request": "launch",
+            "mainClass": "ex1_overload.OverloadMain",
+            "projectName": "Ex_0224_constructor"
+        },
+        {
+            "type": "java",
+            "name": "ConMain",
+            "request": "launch",
+            "mainClass": "ex3_constructor.ConMain",
+            "projectName": "Ex_0224_constructor"
+        },
+        {
+            "type": "java",
+            "name": "PersonMain(1)",
+            "request": "launch",
+            "mainClass": "ex4_person.PersonMain",
+            "projectName": "Ex_0224_constructor"
+        },
+        {
+            "type": "java",
+            "name": "PenMain",
+            "request": "launch",
+            "mainClass": "ex5_pen.PenMain",
+            "projectName": "Ex_0224_constructor"
+        },
+        {
+            "type": "java",
+            "name": "BankMain",
+            "request": "launch",
+            "mainClass": "ex6_static.BankMain",
+            "projectName": "Ex_0224_constructor"
+        },
+        {
+            "type": "java",
+            "name": "PrintGraph",
+            "request": "launch",
+            "mainClass": "homework.PrintGraph",
+            "projectName": "Ex_0224_constructor"
+        },
+        {
+            "type": "java",
+            "name": "Graph",
+            "request": "launch",
+            "mainClass": "ex1_work.Graph",
+            "projectName": "Ex_0227_inheritance"
+        },
+        {
+            "type": "java",
+            "name": "ExtendsMain",
+            "request": "launch",
+            "mainClass": "ex2_inheritance.ExtendsMain",
+            "projectName": "Ex_0227_inheritance"
+        },
+        {
+            "type": "java",
+            "name": "AnimalMain",
+            "request": "launch",
+            "mainClass": "ex3_animal.AnimalMain",
+            "projectName": "Ex_0227_inheritance"
+        },
+        {
+            "type": "java",
+            "name": "CalMain(1)",
+            "request": "launch",
+            "mainClass": "ex4_calculator.CalMain",
+            "projectName": "Ex_0227_inheritance"
+        },
+        {
+            "type": "java",
+            "name": "SuperMain",
+            "request": "launch",
+            "mainClass": "ex5_super.SuperMain",
+            "projectName": "Ex_0227_inheritance"
+        },
+        {
+            "type": "java",
+            "name": "CarMain",
+            "request": "launch",
+            "mainClass": "ex6_car.CarMain",
+            "projectName": "Ex_0227_inheritance"
+        },
+        {
+            "type": "java",
+            "name": "ObjectMain",
+            "request": "launch",
+            "mainClass": "ex1_object.ObjectMain",
+            "projectName": "Ex_0228_Abstract"
+        },
+        {
+            "type": "java",
+            "name": "AbsMain",
+            "request": "launch",
+            "mainClass": "ex2_Abstract.AbsMain",
+            "projectName": "Ex_0228_Abstract"
+        },
+        {
+            "type": "java",
+            "name": "AbsMain(1)",
+            "request": "launch",
+            "mainClass": "ex3_Abstract.AbsMain",
+            "projectName": "Ex_0228_Abstract"
+        },
+        {
+            "type": "java",
+            "name": "RamenMain",
+            "request": "launch",
+            "mainClass": "ex4_ramen.RamenMain",
+            "projectName": "Ex_0228_Abstract"
+        },
+        {
+            "type": "java",
+            "name": "UnitMain",
+            "request": "launch",
+            "mainClass": "ex5_Abstract.UnitMain",
+            "projectName": "Ex_0228_Abstract"
+        },
+        {
+            "type": "java",
+            "name": "Practice01",
+            "request": "launch",
+            "mainClass": "practice1.Practice01",
+            "projectName": "practice"
+        }
+    ]
+}

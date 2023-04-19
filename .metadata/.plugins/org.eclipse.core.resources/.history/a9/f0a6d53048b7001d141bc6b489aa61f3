@@ -1,0 +1,13 @@
+package practice1;
+
+public class Practice01 {
+	public static void main(String[] args) {
+		int num1;
+		int num2;
+		
+		int result = 0;
+		result = num1 - num2;
+		
+		
+	}
+}
